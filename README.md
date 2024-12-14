@@ -16,8 +16,6 @@ Temporal trends, such as busiest times and revenue spikes were identified.
 
 Revenue Contribution:
 Analysis of revenue contributions by meal type and order status was performed to understand which products and order statuses generate the most revenue.
-Customer Behavior:
-Repeat order behavior and retention rate were analyzed to gauge customer loyalty and identify churn risks.
 Performance of Products:
 Analysis was performed to identify underperforming meal types, such as Oatmeal
 
